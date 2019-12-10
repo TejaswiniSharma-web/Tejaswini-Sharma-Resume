@@ -1,7 +1,7 @@
 <!DOCTYPE Html>
 <html>
 <head>
-    <title></title>
+   
   </head>
   <body>
     <p style="text-align:center">Tejaswini Sharma Resume</p>
